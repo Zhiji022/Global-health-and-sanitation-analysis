@@ -1,4 +1,4 @@
-# kelowna_culture_analysis
-A dashboard to analyze the cultural makeup of the city of Kelowna (Canada). This was created in Python using Plotly and Dash.
+# Global health and sanitation analysis
+A dashboard to analyze the the health expenditures and sanitation status of all countries. The analysis is based on the Health Nutrition And Population Statistics provided by World Bank (https://datacatalog.worldbank.org/dataset/health-nutrition-and-population-statistics). The dashboard was developed using Plotly and Dash.
 
-Dashboard - https://kelownaculture.herokuapp.com/
+
