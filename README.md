@@ -3,4 +3,6 @@ A dashboard to analyze the the health expenditures and sanitation status of all 
 The dashboard was developed using Plotly and Dash and deployed through Heroku at:
 https://global-health-sanitation.herokuapp.com
 
+![Global life expectancy](https://github.com/Zhiji022/Global-health-and-sanitation-analysis/blob/master/screenshots/Life_exp.png)
 
+![Health expenditure](https://github.com/Zhiji022/Global-health-and-sanitation-analysis/blob/master/screenshots/Health_risk.png)
